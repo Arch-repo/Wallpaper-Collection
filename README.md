@@ -40,6 +40,8 @@ The dynamic color/theming engine reads these variables from your active environm
 ```bash
 export ANTO426_REMOTE_ASSETS_DIR="$HOME/Google Drive/anto426"
 export ANTO426_NEOFETCH_DIR="$HOME/Pictures/neofetch"
+export ANTO426_NEOFETCH_IMAGES=1
+export ANTO426_NEOFETCH_AUTO_SYNC=0
 ```
 
 <p align="center">

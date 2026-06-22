@@ -1,6 +1,6 @@
 # Neofetch Images
 
-Terminal image assets copied to `~/Pictures/neofetch`.
+Terminal image assets copied to `~/Pictures/neofetch`. Runtime selection is handled by `~/neofetch-random.sh`; Fastfetch image cache is cleared around each render so deleted images are not reused.
 
 <table>
   <tr>
